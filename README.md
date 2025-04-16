@@ -81,3 +81,13 @@ https://github.com/Noreino/SALES-REPORT-DASHBOARD/blob/c18e2293d24728fce03028cec
 ## 🧾 Conclusion  
 This project demonstrates how data visualization tools like Power BI can unlock valuable insights and inform strategic decision-making. By using data-driven recommendations, businesses can target high-value customers, optimize product lines, and increase revenue growth.
 
+---
+
+## ✍️ Author
+
+**Noreino Benison*  
+- 💼 Data & Financial Analyst  
+- 🌍 Based in Lagos, Nigeria  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/noreino-benison-0884a414a)  
+- 📫 Contact: noreinob@gmail.com
+
