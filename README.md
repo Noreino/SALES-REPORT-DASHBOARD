@@ -85,7 +85,7 @@ This project demonstrates how data visualization tools like Power BI can unlock 
 
 ## ✍️ Author
 
-**Noreino Benison**
+## Noreino Benison
 - 💼 Data & Financial Analyst  
 - 🌍 Based in Lagos, Nigeria  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/noreino-benison-0884a414a)  
