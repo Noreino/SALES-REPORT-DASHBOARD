@@ -30,7 +30,8 @@ Leverage sales data to gain actionable insights that:
 - **Revenue vs. Profit Trends**: An annual chart compares revenue and profit, highlighting sales profitability over time.
 - **Customer Segmentation**: Filters and visuals highlight top customers driving revenue within specific years and product lines.
 
-
+## Visual preview
+(Dashboard Preview.jpeg)
 ## Insights Derived
 - Certain product lines like Classic Cars and Vintage Cars consistently generate the highest revenue.
 - Customers such as Euro Shopping Channel and Mini Gifts Distributor are top contributors to total revenue.
