@@ -42,9 +42,8 @@ Leverage sales data to gain actionable insights that:
 
 ---
 
-## 🖼️ Visual Preview  
-![Dashboard Screenshot](images/Dashboard-Preview.jpeg)  
-> 📌 *Tip: Save your dashboard screenshot in a folder called `images` and rename it to `Dashboard-Preview.jpeg`.*
+## 🖼️ Visual Preview
+https://github.com/Noreino/SALES-REPORT-DASHBOARD/blob/c18e2293d24728fce03028cec3ef5bc91e5182c0/dashboard_preview.jpeg
 
 ---
 
